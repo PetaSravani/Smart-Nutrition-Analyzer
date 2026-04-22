@@ -1,0 +1,1 @@
+export { ManualAllergyScreen } from './AllergyTrackerScreen';
