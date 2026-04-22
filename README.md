@@ -340,24 +340,6 @@ cd android && ./gradlew assembleRelease
 
 ---
 
-## 👨‍💻 Authors
-
-| Name | Role |
-|---|---|
-| **Muvva Adityavardhan** | AI Integration & RL Backend |
-| **Venigalla Gopi Krishna** | Frontend & Firebase |
-| **Kaushal Kulkarni** | Database & Nutrition Engine |
-| **Konda Govardhan** | OCR & Report Generation |
-
----
-
-## 🎓 Academic Project
-
-> Developed as part of **B.Tech (CSE) Major Project**
->
-> **Gokaraju Rangaraju Institute of Engineering and Technology**
-
----
 
 ## 🔐 Security
 
